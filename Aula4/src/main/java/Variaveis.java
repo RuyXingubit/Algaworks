@@ -9,7 +9,7 @@ public class Variaveis {
 
         int totalIdades = minhaIdade + suaIdade;
         // não pode começar com numero
-        // int 1Idade = 10;
+        //int 1Idade = 10;
         System.out.println("Total das idades: " + totalIdades);
     }
 }
